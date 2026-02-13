@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="160" viewBox="0 0 640 160" role="img" aria-label="CGA Technologies">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6d7cff"></stop>
+      <stop offset="0.55" stop-color="#29d3ff"></stop>
+      <stop offset="1" stop-color="#7c3aed"></stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Icon -->
+  <g transform="translate(20,20)">
+    <rect x="0" y="0" width="120" height="120" rx="18" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.16)" stroke-width="2"></rect>
+    <text x="60" y="78" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="800" fill="url(#g)" letter-spacing="1.5">CGA</text>
+  </g>
+
+  <!-- Text -->
+  <g transform="translate(170,54)" font-family="Arial, Helvetica, sans-serif">
+    <text x="0" y="0" font-size="34" font-weight="800" fill="url(#g)">CGA Technologies</text>
+    <text x="0" y="34" font-size="16" font-weight="600" fill="rgba(255,255,255,0.85)">Innovate. Connect. Advance.</text>
+  </g>
+</svg>
